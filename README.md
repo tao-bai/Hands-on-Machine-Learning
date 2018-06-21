@@ -8,4 +8,5 @@
 - Chapter2 - end to end machine learning projects. Take the project: House price prediction as an example to illustrate an ML solution from stretch.
 - Chapter3 - classification. Turn our attention to classification systems.
 - Chapter4 - training the models. Most of the topics discussed in this chapter will be essential in understanding, building, and training neural networks.
+- Chapter5 - Support Vector Machines. This chapter will explain the core concepts of SVMs, how to use them, and how they work.
 
