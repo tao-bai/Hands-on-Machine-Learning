@@ -10,4 +10,4 @@
 - Chapter4 - training the models. Most of the topics discussed in this chapter will be essential in understanding, building, and training neural networks.
 - Chapter5 - Support Vector Machines. This chapter will explain the core concepts of SVMs, how to use them, and how they work.
 - Chapter6 - Decision Trees. Decision Trees are versatile ML algorithms but also have limitations.
-
+- Chapter7 - In this chapter we will discuss the most popular Ensemble methods, including bagging, boosting, stacking, and a few others. We will also explore Random Forests. 
