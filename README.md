@@ -12,3 +12,7 @@
 - Chapter6 - Decision Trees. Decision Trees are versatile ML algorithms but also have limitations.
 - Chapter7 - In this chapter we will discuss the most popular Ensemble methods, including bagging, boosting, stacking, and a few others. We will also explore Random Forests. 
 - Chapter8 - Dimensionality Reduction. In this chapter we will discuss the curse of dimensionality and get a sense of what goes on in high-dimensional space. Then, we will present the two main approaches to dimensionality reduction (projection and Manifold Learning), and we will go through three of the most popular dimensionality reduction techniques: PCA, Kernel PCA, and LLE. 
+
+## Part 2. Neural Networks and Deep Learning
+
+- Chapter 9 -  Up and Running with tensorFlow. In this chapter we will go through the basics of Tensorflow.
