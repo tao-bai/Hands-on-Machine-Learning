@@ -17,3 +17,4 @@
 
 - Chapter 9 -  Up and Running with tensorFlow. In this chapter we will go through the basics of Tensorflow.
 - Chapter 10 - Introduction to Artificial Neural Networks.
+- Chapter 11 - Training Deep Neural Nets. 
